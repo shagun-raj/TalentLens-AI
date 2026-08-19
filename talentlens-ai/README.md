@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# TalentLens AI
 
-# Run and deploy your AI Studio app
+AI-powered smart talent screening and candidate matching system designed to help recruiters screen resumes and identify suitable candidates efficiently.
 
-This contains everything you need to run your app locally.
+##  Features
 
-View your app in AI Studio: https://ai.studio/apps/62dbaed6-61da-4f7c-8eb6-c39b6057ee86
+- Resume Upload & Processing
+- AI-Based Candidate Screening
+- Job-Specific Match Score
+- Skills & Gap Analysis
+- Candidate Comparison
+- Multiple Job Roles
+- Candidate Search & Filtering
+- Explainable AI Screening
 
-## Run Locally
+##  Tech Stack
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Vite
+- Google Gemini AI
 
+##  Project Status
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Currently under development.
+
+More features and improvements are being added.
