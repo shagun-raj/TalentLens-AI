@@ -1,0 +1,7 @@
+{
+  "name": "TalentLens AI",
+  "description": "Smart Resume Screening & Candidate Ranking Platform for recruiters and HR teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
