@@ -6,7 +6,7 @@ TalentLens AI is an AI-assisted recruitment platform designed to help recruiters
 
 ## 🚀 Live Demo
 
-Coming soon — deployment in progress.
+https://talentlens-ai-yz9t.onrender.com
 
 ## 📂 GitHub Repository
 
